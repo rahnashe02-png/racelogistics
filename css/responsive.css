@@ -1,0 +1,62 @@
+@media screen and (max-width:1400px){
+
+}
+@media screen and (max-width:1200px){
+    
+}
+@media screen and (max-width:992px){
+    
+    .nav-ul{
+
+        display: none;
+    }
+    
+
+    .welcome-div h2{
+        font-size: 35px;
+    }
+    .nav-btn1{
+        display: none;
+    }
+    .nav-toggle span{
+        display: flex;
+        z-index: 3;
+    }
+    .navs{
+        display: flex;
+        padding-left: 0;
+        margin-bottom: 0;
+        list-style: none;
+    }
+    .menu{
+        display: flex;
+    }
+}
+@media screen and (max-width:768px){
+    .track-searcher input{
+        width: 100%;
+        width: 100%;
+    }
+    .btn{
+        width: 100%;
+        max-width: 100%;
+    }
+    .trackingbar{
+        display: flex;
+        flex-direction: column;
+    }
+   
+}
+@media screen and (max-width:576px){
+
+
+}
+@media screen and (max-width:525px){
+
+}
+@media screen and (max-width:425px){
+
+}
+@media screen and (max-width:375px){
+
+}
